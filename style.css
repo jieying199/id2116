@@ -1,11 +1,11 @@
 
 body {
-    background-color: rgb(230, 205, 173);
+    background-color: rgb(125,191,228);
   }
   
   h1 {
     color: rgb(0, 255, 115);
-    text-align: center;
+    text-align: right;
   }
   
   p {
