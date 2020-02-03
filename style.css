@@ -5,17 +5,23 @@ body {
   
    h1 {
     color: rgb(255,204,174);
-    font-family: "Gill Sans", sans-serif;
-    position: relative;
-    font-size: 50px;
-    letter-spacing: 100px;
+    font-family: "verdana";
+    font-size: 40px;
+    letter-spacing: 50px;
+    margin-left: 850px;
+    margin-top: 200px;
   }
 
   p {
     color: rgb(40,52,94);
     font-family: verdana;
-    text-align: right;
-    font-size: 6px;
+    text-align: left;
+    margin-left: 850px;
+    margin-right: 300px;
+    font-size: 12px; 
+    row-gap: 20px;
+    word-spacing: 0.5cm;
+    line-height: 35px;
   }
 
   
