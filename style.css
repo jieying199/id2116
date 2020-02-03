@@ -4,11 +4,12 @@ body {
   }
   
   h1 {
-    color: rgb(0, 255, 115);
+    color: rgb(255,204,174);
     text-align: right;
   }
   
   p {
+    color: rgb(40,52,94);
     font-family: verdana;
     font-size: 20px;
   }
