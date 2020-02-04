@@ -22,7 +22,11 @@ body {
     row-gap: 20px;
     word-spacing: 0.3cm;
     line-height: 35px;
-  }
+  } 
+  html {
+    display: block;
+    color: -internal-root-color;
+}
 
 
   
