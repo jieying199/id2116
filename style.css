@@ -17,11 +17,12 @@ body {
     font-family: verdana;
     text-align: left;
     margin-left: 850px;
-    margin-right: 300px;
+    margin-right: 280px;
     font-size: 12px; 
     row-gap: 20px;
     word-spacing: 0.3cm;
     line-height: 35px;
+    letter-spacing: 0.04cm;
   } 
   html {
     display: block;
@@ -36,10 +37,10 @@ body {
     margin-right: 300px;
     font-size: 12px; 
     row-gap: 20px;
-    word-spacing: 0.5cm;
+    word-spacing: 0.1cm;
     line-height: 35px;
+    letter-spacing: 0.04cm;
   }  
-   
     
 
 
