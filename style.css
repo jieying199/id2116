@@ -26,7 +26,21 @@ body {
   html {
     display: block;
     color: -internal-root-color;
-}
+   }
+
+   h2 {
+    color: rgb(40,52,94);
+    font-family: verdana;
+    text-align: left;
+    margin-left: 850px;
+    margin-right: 300px;
+    font-size: 12px; 
+    row-gap: 20px;
+    word-spacing: 0.5cm;
+    line-height: 35px;
+  }  
+   
+    
 
 
   
